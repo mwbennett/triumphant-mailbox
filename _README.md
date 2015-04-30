@@ -25,10 +25,10 @@
 ## Requirements
 
 - Node 0.10.x
-- MySQL 2.6.x
-- Postgresql 9.1.x
-- etc
-- etc
+- MySQL
+- Angular
+- Sequelize
+- Express
 
 ## Development
 
